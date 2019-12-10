@@ -26,6 +26,6 @@ public class Desafio {
 		System.out.println("A média é " + media + "!");
 		entrada.close();
 		
-		System.out.println("Teste");
+		System.out.println("Teste Array");
 	}
 }
